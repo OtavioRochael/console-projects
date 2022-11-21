@@ -1,5 +1,3 @@
-//Nome: Otavio Rochael Cunha. Matricula: 12211BSI218
-//Nome: Mário Lúcio Santos Júnior. Matricula: 12211BSI252
 #include <stdio.h>
 #include <stdlib.h>
 
